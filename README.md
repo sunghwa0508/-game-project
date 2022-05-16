@@ -1,4 +1,4 @@
-# 프로젝트
+# 프로젝트 소개
 
 1. [Game Analysis Project]
 2. [Marketing Project]
